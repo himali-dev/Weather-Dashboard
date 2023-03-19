@@ -1,0 +1,15 @@
+.header{
+  text-align: center;
+  background-color: cadetblue;
+  padding: 10px;
+}
+
+
+
+h2, .form-control, .btn {
+  margin: 8px;
+}
+
+#day-forecast h3, #day-forecast p {
+  margin: 8px;
+}
